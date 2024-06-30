@@ -1,19 +1,10 @@
-import re
-from os import getenv
-
-from dotenv import load_dotenv
-from pyrogram import filters
-
-load_dotenv()
-
+# ??????? ??????? #
 OWNER = ["R7_OX"]
-OWNER_NAME = " 𝗥͜𝗼͡𝗪͡𝗲͜𝗦 "
-BOT_TOKEN = [":-tJJo"]
-DATABASE = None
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-CHANNEL = "https://t.me/RQ_SF"
+OWNER_NAME = "RoWeS"
+BOT_TOKEN = "7383707753:AAH79WHLhVn9xtw9Bpv5xJ8nj1as753sCAsi"
+DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority"
+CHANNEL = "https://t.me/vc_xm"
 GROUP = "https://t.me/R3_QX"
-VID_SO = "https://telegra.ph/file/bf1273e084a0fb135ab5a.jpg"
+VID_SO = "https://telegra.ph/file/ae7a6e68800785b05cde9.jpg"
 PHOTO = "https://telegra.ph/file/bf1273e084a0fb135ab5a.jpg"
-LOGS = "jabababbab"
+LOGS = "vshskslaaoo"
