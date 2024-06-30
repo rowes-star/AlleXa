@@ -8,7 +8,7 @@ load_dotenv()
 
 OWNER = ["R7_OX"]
 OWNER_NAME = " 𝗥͜𝗼͡𝗪͡𝗲͜𝗦 "
-BOT_TOKEN = ["7383707753:AAF2ts1T4fJ2bcnZEyjsHg7BHeqjDu-tJJo"]
+BOT_TOKEN = [":-tJJo"]
 DATABASE = None
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
