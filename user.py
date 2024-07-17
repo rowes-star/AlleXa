@@ -8,17 +8,17 @@ async def main():
   await app.start()
   await bot.start()
   try :
-    await app.join_chat("R3_QX")
-    await app.join_chat("RQ_SF")
-    await app.join_chat("R7_QX")
+    await app.join_chat("qkpqp")
+    await app.join_chat("zxzlz")
+    await app.join_chat("uplake")
   except :
     pass
   starkbot = await bot.get_me()
-  perf = "[ رويس ]"
+  perf = "[ الزوز ]"
   bot_name = starkbot.first_name
   botname = f"@{starkbot.username}"
   if bot_name.endswith("Assistant"):
-    print("تم تشغيل البوت")
+    print(" لقد عاد البوت للعمل...√ ")
   else:
     try:
         await app.send_message("@BotFather", "/setinline")
